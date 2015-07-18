@@ -5,8 +5,8 @@
     <description>记录思绪的点点滴滴</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 31 May 2015 09:30:57 +0800</pubDate>
-    <lastBuildDate>Sun, 31 May 2015 09:30:57 +0800</lastBuildDate>
+    <pubDate>Mon, 01 Jun 2015 09:51:39 +0800</pubDate>
+    <lastBuildDate>Mon, 01 Jun 2015 09:51:39 +0800</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
@@ -19,8 +19,10 @@
 &lt;th&gt;股票名字&lt;/th&gt;
 &lt;th&gt;PE&lt;/th&gt;
 &lt;th&gt;市值&lt;/th&gt;
-&lt;th&gt;管理层状况&lt;/th&gt;
-&lt;th&gt;上榜理由&lt;/th&gt;
+&lt;th&gt;港A 100&lt;/th&gt;
+&lt;th&gt;推荐文章&lt;/th&gt;
+&lt;th&gt;特别备注&lt;/th&gt;
+&lt;th&gt;我的看法&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;&lt;tbody&gt;
 &lt;tr&gt;
@@ -28,6 +30,8 @@
 &lt;td&gt;高阳科技&lt;/td&gt;
 &lt;td&gt;28&lt;/td&gt;
 &lt;td&gt;110&lt;/td&gt;
+&lt;td&gt;是&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -36,6 +40,8 @@
 &lt;td&gt;百富环球&lt;/td&gt;
 &lt;td&gt;38&lt;/td&gt;
 &lt;td&gt;155&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -44,6 +50,8 @@
 &lt;td&gt;汇银家电&lt;/td&gt;
 &lt;td&gt;38&lt;/td&gt;
 &lt;td&gt;26&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -52,6 +60,8 @@
 &lt;td&gt;中国金融投资管理&lt;/td&gt;
 &lt;td&gt;11&lt;/td&gt;
 &lt;td&gt;34&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -60,6 +70,8 @@
 &lt;td&gt;智美集团&lt;/td&gt;
 &lt;td&gt;37&lt;/td&gt;
 &lt;td&gt;128&lt;/td&gt;
+&lt;td&gt;是&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -68,6 +80,8 @@
 &lt;td&gt;广南（集团）&lt;/td&gt;
 &lt;td&gt;10&lt;/td&gt;
 &lt;td&gt;15&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -76,14 +90,18 @@
 &lt;td&gt;腾讯控股&lt;/td&gt;
 &lt;td&gt;49&lt;/td&gt;
 &lt;td&gt;14596&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;是&lt;/td&gt;
 &lt;td&gt;业务发展顺利，财报好，互联网中产品做的最好的一个&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;00388&lt;/td&gt;
 &lt;td&gt;香港交易所&lt;/td&gt;
 &lt;td&gt;67&lt;/td&gt;
 &lt;td&gt;3518&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -92,6 +110,8 @@
 &lt;td&gt;元征科技&lt;/td&gt;
 &lt;td&gt;--&lt;/td&gt;
 &lt;td&gt;43&lt;/td&gt;
+&lt;td&gt;是&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -100,6 +120,8 @@
 &lt;td&gt;安捷利实业&lt;/td&gt;
 &lt;td&gt;98&lt;/td&gt;
 &lt;td&gt;30&lt;/td&gt;
+&lt;td&gt;是&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -108,6 +130,8 @@
 &lt;td&gt;中泛控股&lt;/td&gt;
 &lt;td&gt;171&lt;/td&gt;
 &lt;td&gt;184&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -116,6 +140,8 @@
 &lt;td&gt;汇源果汁&lt;/td&gt;
 &lt;td&gt;--&lt;/td&gt;
 &lt;td&gt;113&lt;/td&gt;
+&lt;td&gt;是&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -124,6 +150,8 @@
 &lt;td&gt;中国消防&lt;/td&gt;
 &lt;td&gt;--&lt;/td&gt;
 &lt;td&gt;26&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -132,6 +160,8 @@
 &lt;td&gt;彩生活&lt;/td&gt;
 &lt;td&gt;56&lt;/td&gt;
 &lt;td&gt;116&lt;/td&gt;
+&lt;td&gt;是&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -140,6 +170,8 @@
 &lt;td&gt;中国擎天软件&lt;/td&gt;
 &lt;td&gt;45&lt;/td&gt;
 &lt;td&gt;76&lt;/td&gt;
+&lt;td&gt;是&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -148,6 +180,8 @@
 &lt;td&gt;中国电子&lt;/td&gt;
 &lt;td&gt;46&lt;/td&gt;
 &lt;td&gt;91&lt;/td&gt;
+&lt;td&gt;是&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -156,6 +190,8 @@
 &lt;td&gt;科通芯城&lt;/td&gt;
 &lt;td&gt;74&lt;/td&gt;
 &lt;td&gt;212&lt;/td&gt;
+&lt;td&gt;是&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -164,6 +200,8 @@
 &lt;td&gt;绿色动力环保&lt;/td&gt;
 &lt;td&gt;31&lt;/td&gt;
 &lt;td&gt;25&lt;/td&gt;
+&lt;td&gt;是&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -172,6 +210,8 @@
 &lt;td&gt;正峰集团&lt;/td&gt;
 &lt;td&gt;--&lt;/td&gt;
 &lt;td&gt;79&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -180,6 +220,108 @@
 &lt;td&gt;粤海制革&lt;/td&gt;
 &lt;td&gt;300&lt;/td&gt;
 &lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;-08143&lt;/td&gt;
+&lt;td&gt;华夏医疗&lt;/td&gt;
+&lt;td&gt;108&lt;/td&gt;
+&lt;td&gt;27&lt;/td&gt;
+&lt;td&gt;是&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;-00665&lt;/td&gt;
+&lt;td&gt;海通国际&lt;/td&gt;
+&lt;td&gt;15&lt;/td&gt;
+&lt;td&gt;436&lt;/td&gt;
+&lt;td&gt;是&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;-02369&lt;/td&gt;
+&lt;td&gt;酷派集团&lt;/td&gt;
+&lt;td&gt;23&lt;/td&gt;
+&lt;td&gt;120&lt;/td&gt;
+&lt;td&gt;是&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;-01322&lt;/td&gt;
+&lt;td&gt;CW GROUP HOLD&lt;/td&gt;
+&lt;td&gt;22&lt;/td&gt;
+&lt;td&gt;40&lt;/td&gt;
+&lt;td&gt;是&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;-08095&lt;/td&gt;
+&lt;td&gt;北大青鸟环宇&lt;/td&gt;
+&lt;td&gt;25&lt;/td&gt;
+&lt;td&gt;13&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;-00552&lt;/td&gt;
+&lt;td&gt;中国通信服务&lt;/td&gt;
+&lt;td&gt;11&lt;/td&gt;
+&lt;td&gt;101&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;-01011&lt;/td&gt;
+&lt;td&gt;泰凌医药&lt;/td&gt;
+&lt;td&gt;1505&lt;/td&gt;
+&lt;td&gt;39&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;-08172&lt;/td&gt;
+&lt;td&gt;中国星文化产业&lt;/td&gt;
+&lt;td&gt;--&lt;/td&gt;
+&lt;td&gt;47&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;-00170&lt;/td&gt;
+&lt;td&gt;中国资本&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;-01273&lt;/td&gt;
+&lt;td&gt;香港信贷&lt;/td&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
